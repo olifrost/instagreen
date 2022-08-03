@@ -415,7 +415,7 @@
 
   {
     "id":6,
-    "name":"My Big Rock and Well Dressed Babies",
+    "name":"My Big Rock and <span class='nowrap'>Well Dressed Babies</span>",
     "price":10,
     "youtubeREF":"",
     "items":[
@@ -761,7 +761,7 @@
 
     {
       "id":11,
-      "name":"My Phone Camera Has Four Lenses",
+      "name":"My Phone Camera Has <span class='nowrap'>Four Lenses</span>",
       "price":10,
       "youtubeREF":"",
       "items":[
@@ -858,7 +858,7 @@
 
   {
     "id":8,
-    "name":"I'd Go To The Ends Of The Earth For My Girls",
+    "name":"I'd Go To The Ends Of <br>The Earth For My Girls",
     "price":10,
     "youtubeREF":"",
     "items":[
@@ -1017,7 +1017,7 @@
 
   {
     "id":7,
-    "name":"My Weekend Was <span class='nowrap'>Amazing Thanks</span>",
+    "name":"My Weekend Was <br><span class='nowrap'>Amazing Thanks</span>",
     "price":10,
     "youtubeREF":"",
     "items":[
